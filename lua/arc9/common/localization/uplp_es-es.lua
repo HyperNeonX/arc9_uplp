@@ -2097,7 +2097,7 @@ L["uplp_weapon_asval_manufacturer"] = "Imperial Tula Arms Plant"
 
 //////////////////// ASh-12
 L["uplp_weapon_ash12"] = "RZ 12.7"
-L["uplp_weapon_ash12_desc"] = "The Russian RZ 12.7 is a powerful bullpup assault rifle chambered for the hefty 12.7x55mm caliber, designed for close-quarters combat and anti-material purposes, with a distinct recoil-mitigating system and a unique combination of stopping power and accuracy. Its design incorporates features for enhanced control and stability despite its substantial caliber, making it suitable for specialized military applications." -- TRANSLATE
+L["uplp_weapon_ash12_desc"] = "El RZ 12.7 ruso es un potente fusil de asalto bullpup con recámara del grueso calibre 12.7x55 mm, diseñado para el combate cuerpo a cuerpo y la lucha antimaterial, con un sistema distinto de mitigación del retroceso y una combinación única de potencia de parada y precisión. Su diseño incorpora características para mejorar el control y la estabilidad a pesar de su importante calibre, lo que la hace adecuada para aplicaciones militares especializadas." -- TRANSLATE
 
 L["uplp_weapon_ash12_real"] = "ASh-12"
 
